@@ -27,3 +27,9 @@ window.onload = function() {
   };
   dominio(pronoun, adj, noun, dom);
 };
+
+let pronoun = ["the", "our"];
+let adj = ["great", "big"];
+let noun = ["jogger", "racoon"];
+
+let website;
